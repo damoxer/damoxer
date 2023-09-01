@@ -1,7 +1,7 @@
 <div align="center">
   <h2>Muhammed</h2>
 
-  <div><img src='https://skillicons.dev/icons?i=discord,bots,js,ts,vscode,html,css,react,vite,nodejs,arduino,java,md,electron,git,github,blender,dart,flutter,cs,unity,unreal,linux,figma,idea,ps,pr,postman'/></img></div>
+<div><img src='https://skillicons.dev/icons?i=discord,bots,js,ts,vscode,html,css,react,vite,nodejs,arduino,java,md,electron,git,github,blender,dart,flutter,cs,unity,unreal,linux,figma,idea,ps,pr,postman'/></img></div>
   
 [![Discord Presence](https://lanyard.cnrad.dev/api/747340224962494524)](https://discord.com/users/747340224962494524)
 
