@@ -4,6 +4,7 @@
 <div><img src='https://skillicons.dev/icons?i=discord,bots,js,ts,vscode,html,css,react,vite,nodejs,arduino,java,md,electron,git,github,blender,dart,flutter,cs,unity,unreal,linux,figma,idea,ps,pr,postman'/></img></div>
   
 [![Discord Presence](https://lanyard.cnrad.dev/api/747340224962494524)](https://discord.com/users/747340224962494524)
+[![Discord Presence](https://bb7a-176-55-80-31.ngrok-free.app/api/747340224962494524)](https://discord.com/users/747340224962494524)
 
 [![Spotatus](https://spotatus.onrender.com/api/31ktsppspw4awepeisezbmrqia6m)](https://open.spotify.com/user/31ktsppspw4awepeisezbmrqia6m?si=0367b1c1fa3049e4)
 
