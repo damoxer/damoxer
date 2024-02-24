@@ -1,7 +1,5 @@
 <div align="center">
-  <h2>Muhammed</h2>
-
-<div><img src='https://skillicons.dev/icons?i=python,discord,bots,js,ts,express,visualstudio,vscode,idea,androidstudio,kotlin,java,html,css,react,vite,nextjs,nodejs,arduino,java,maven,md,electron,firebase,git,github,blender,dart,flutter,cs,unity,unreal,linux,figma,idea,ps,pr,postman'/></img></div>
+  <h2>Mamy</h2>
   
 [![Discord Presence](https://lanyard.cnrad.dev/api/747340224962494524)](https://discord.com/users/747340224962494524)
 
